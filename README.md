@@ -1,6 +1,6 @@
 # Noise Protocol Framework
 
-This package implements [Noise Protool Framework]((https://noiseprotocol.org/noise.html)) as a playground.
+This package implements [Noise Protool Framework](https://noiseprotocol.org/noise.html) as a playground.
 
 ## NOTE
 
